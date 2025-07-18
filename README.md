@@ -9,3 +9,4 @@
 
 **Descrizione:**
 Riassunto delle slide fornite dal docente durante le lezioni in presenza.
+>❗️Non garantisco l'assenza di errori di alcun tipo e invito caldamente chiunque deve sostenere l'esame a seguire le lezioni poichè questo documento non ha lo scopo di sostituirle.
