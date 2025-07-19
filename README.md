@@ -1,4 +1,4 @@
-##### Università Ca'Foscari Venezia
+###### Reti dei Calcolatori - Università Ca'Foscari Venezia
 
 # Reti dei calcolatori
 **Corso:** [CT0629](https://www.unive.it/data/insegnamento/542938)
